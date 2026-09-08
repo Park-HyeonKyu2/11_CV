@@ -53,15 +53,3 @@ cv2.imshow("labeling result", dst)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
-
-
-
-
-
-
-
-
